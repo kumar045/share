@@ -1,3 +1,5 @@
+# Response 1
+
 Processing en text:
 2024-08-28 16:22:54,074 - INFO - Original: The mitochondria is the powerhouse of the cell, responsible for producing energy through a process called cellular respiration.
 2024-08-28 16:23:13,488 - INFO - Simplified: The mitochondria is a tiny organelle inside of your cells. It breaks down sugar to create energy. This process is called cellular respiration.
@@ -64,6 +66,9 @@ Die Mitochondrien sind auch f√ºr die Aufrechterhaltung des Gleichgewichts von S√
 2024-08-28 16:23:32,259 - INFO - Readability Scores:
 2024-08-28 16:23:32,259 - INFO - Original: {'Flesch-Reading-Ease': 60.65, 'Automated Readability Index': 16.8}
 2024-08-28 16:23:32,259 - INFO - Simplified: {'Flesch-Reading-Ease': 66.03, 'Automated Readability Index': 12.5}
+
+# Response 2
+
 2024-08-28 16:58:41,448 - INFO - Processing en text:
 2024-08-28 16:58:41,448 - INFO - Original: The mitochondria is the powerhouse of the cell, responsible for producing energy through a process called cellular respiration.
 2024-08-28 16:58:59,994 - INFO - Simplified: The mitochondria is a cell's power plant, creating energy through a process called cellular respiration.
